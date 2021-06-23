@@ -1,7 +1,13 @@
 ### Hi there 👋
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=OussemaZaier&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<div style="width: 50%; height: 50%; background-color: green; float:left;"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OussemaZaier&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</div>
+<div style="width: 50%; height: 50%; background-color: blue; float:right;">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaZaier&layout=compact)"/>
+</div>
 
+ 
+    
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 <!--

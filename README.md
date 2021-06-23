@@ -1,10 +1,11 @@
 ### Hi there 👋
 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OussemaZaier&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaZaier&layout=compact&theme=dracula)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaZaier&layout=compact&theme=dracula"/>
 </a>
 
  

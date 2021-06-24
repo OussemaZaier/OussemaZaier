@@ -5,6 +5,7 @@
 - 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a>
 - ⚡ Fun fact: ...
 - 😎 Hobbies: Photography, Camping, Traveling
+- **This is bold text**	
 <hr>
 
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OussemaZaier&repo=github-readme-stats" /> -->

@@ -19,7 +19,9 @@ Hi 👋, I'm
 </div>
 <hr>
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOussemaZaier%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOussemaZaier%2Fhit-counter&count_bg=%23FF0000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a> -->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=OussemaZaier.OussemaZaier)
+
 <!--
 **OussemaZaier/OussemaZaier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

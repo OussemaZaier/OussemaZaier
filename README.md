@@ -2,7 +2,7 @@ Hi 👋, I'm <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zai
 - 🔭 I’m currently studying computer engineering in Tunisia.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href = "medoussemazaier@gmail.com">Email</a>
+- 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a>
 - ⚡ Fun fact: ...
 - 😎 Hobbies: Photography, Camping, Traveling
 <hr>

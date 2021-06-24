@@ -1,11 +1,11 @@
-<div style="text-align: center;font-size: 30px;">**Hi 👋, I'm** <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zaier</a></div>
+<div style="text-align: center;font-size: 30px;">Hi 👋, I'm <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zaier</a></div>
 - 🔭 I’m currently studying computer engineering in Tunisia.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about ...
 - 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a>
 - ⚡ Fun fact: ...
 - 😎 Hobbies: Photography, Camping, Traveling
-- **This is bold text**	
+
 <hr>
 
 <!--  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=OussemaZaier&repo=github-readme-stats" /> -->

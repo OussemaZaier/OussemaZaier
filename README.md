@@ -2,7 +2,7 @@
 - 🔭 I’m currently studying computer engineering in Tunisia.
 - 🌱 I’m currently learning Flutter.
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a>
+- 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a> , <a href = "https://www.linkedin.com/in/med-oussema-zaier-429254189/">LinkedIn</a>
 - ⚡ Fun fact: ...
 - 😎 Hobbies: Photography, Camping, Traveling
 

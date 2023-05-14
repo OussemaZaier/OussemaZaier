@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zaier</a></p>
 - 🔭 I’m currently studying computer engineering in Tunisia.
-- 🌱 I’m currently learning Flutter.
-- 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a> , <a href = "https://www.linkedin.com/in/med-oussema-zaier-429254189/">LinkedIn</a>
+- 🌱 I’m a Flutter && NodeJS developer.
+- 📫 How to reach me: <a href = "mailto: medoussemazaier@gmail.com">Email</a> , <a href = "https://www.linkedin.com/in/med-oussema-zaier/">LinkedIn</a>
 - 😎 Hobbies: Photography, Camping, Traveling
 
 <hr>

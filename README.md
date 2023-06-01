@@ -34,3 +34,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">Hi there, I'm Med Oussema Zaier 👋</p>
+<p align="center">I'm a computer engineering student from Tunisia with a passion for Flutter and NodeJS development. Welcome to my GitHub profile, where I showcase my projects and contribute to the open-source community.</p>
+📫 How to Reach Me
+Email: medoussemazaier@gmail.com
+LinkedIn: Med Oussema Zaier
+🔭 My Work
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=OussemaZaier&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OussemaZaier&layout=compact&theme=dracula" alt="Top Languages" />
+  </a>
+</p>
+😎 Hobbies
+In my free time, I enjoy exploring my hobbies:
+
+Photography: Capturing beautiful moments and landscapes.
+Camping: Connecting with nature and enjoying outdoor adventures.
+Traveling: Discovering new places, cultures, and experiences.
+Feel free to explore my repositories and connect with me on LinkedIn. Let's collaborate, learn, and create amazing projects together!

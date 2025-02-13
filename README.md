@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zaier</a></p>
-<p align="center">Final Year Computer Engineering Student | Flutter Developer</p>
+<p align="center">Mobile Software Engineer | Flutter & MERN Stack | Bringing your ideas to Life</p>
 
 <p align="center">Welcome to my GitHub profile! I'm passionate about creating innovative mobile applications and exploring the potential of Flutter. As a final year computer engineering student, I am constantly seeking opportunities to collaborate on exciting projects.</p>
 

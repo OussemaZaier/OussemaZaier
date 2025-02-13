@@ -1,9 +1,10 @@
 # <p align="center">Hi 👋, I'm <a href="https://www.facebook.com/m.oussema.z.jsk/">Med Oussema Zaier</a></p>
 <p align="center">Mobile Software Engineer | Flutter & MERN Stack | Bringing your ideas to Life</p>
 
-<p align="center">Welcome to my GitHub profile! I'm passionate about creating innovative mobile applications and exploring the potential of Flutter. As a final year computer engineering student, I am constantly seeking opportunities to collaborate on exciting projects.</p>
+<p align="center">Welcome to my GitHub profile! I'm passionate about creating innovative mobile applications and exploring the potential of Flutter. As a software engineer, I am constantly seeking opportunities to collaborate on exciting projects.</p>
 
-- 🔭 I’m currently working on honing my Flutter skills and exploring new frameworks and technologies.
+- 👔 I'm working as an IT/Software Development Director at Zen
+- 🔭 I’m currently working on honing my skills and exploring new frameworks and technologies.
 - 🌱 I’m open to collaboration on projects related to Software Engineering.
 - 💬 Feel free to reach out to me for any Flutter-related discussions or project ideas.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/med-oussema-zaier/) to explore potential collaborations and stay updated on my latest projects.
